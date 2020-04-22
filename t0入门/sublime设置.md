@@ -50,3 +50,10 @@ xterm on GNU/Linux
 
 ## Git学习第（三）篇：Sublime Text3 Git插件安装与使用
 本文链接：https://blog.csdn.net/m0_37617778/article/details/83111550
+
+## sublime的TAB和空格统一
+
+选择Preference->Settings
+
+把红框里的东东添加进设置里
+![统一tab和space](sublime统一tab和space.jfif)
